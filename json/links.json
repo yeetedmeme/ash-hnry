@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Youtube",
+        "color": "red",
+        "icon": "web",
+        "url": "https://www.youtube.com/channel/UCV91T86djr2EmuKR5iNA5DA"
+    },
+    {
+        "name": "Twitter",
+        "color": "blue",
+        "icon": "web",
+        "url": "https://twitter.com/@yeetedmeme"
+    },
+    {
+        "name": "Github",
+        "color": "black",
+        "icon": "web",
+        "url": "https://github.com/yeetedmeme"
+	}
+
+]

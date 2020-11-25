@@ -1,0 +1,38 @@
+[
+    {
+        "name": "YeetBot",
+        "description": "A Moderation Discord Bot",
+        "image": "images/yeetbot.png",
+        "link": "https://github.com/yeetedmeme/yeetbot"
+	},
+    {
+        "name": "Kaspammer Kahoot Flooder",
+        "description": "Node.js Kahoot Flooder",
+        "image": "images/kaspammer.png",
+        "link": "https://yeetedmeme.js.org/kaspammer"
+	},
+    {
+        "name": "Mii Channel Arudino Bot",
+        "description": "Mii Channel Theme!",
+        "image": "images/mii.png",
+        "link": "https://www.youtube.com/watch?v=PYtwIsa1q7o"
+	},
+    {
+        "name": "Megalovainia Arduino Bot",
+        "description": "Megalovania On Arduino!!",
+        "image": "images/mega.png",
+        "link": "https://www.youtube.com/watch?v=U--gaDpaRIA"
+	},
+    {
+        "name": "Tetris Arduino Bot",
+        "description": "Tetris A Theme!",
+        "image": "images/tetris.png",
+        "link": "https://www.youtube.com/watch?v=4dcf0Y6W6kQ"
+    },
+    {
+        "name": "PortableMC",
+        "description": "Portable Minecraft!",
+        "image": "images/mc.png",
+        "link": "https://github.com/yeetedmeme/portablemc/releases"
+	}
+]
